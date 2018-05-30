@@ -6,6 +6,8 @@
 //  Copyright © 2017 Krunoslav Zaher. All rights reserved.
 //
 
+// bump
+
 extension ObservableType where E: EventConvertible {
     /**
      Convert any previously materialized Observable into it's original form.
